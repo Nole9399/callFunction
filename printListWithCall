@@ -1,0 +1,9 @@
+#Define function
+Def main():
+    printNames()
+    Return
+Def printNames():
+    masterNames = ['joe','tom','jim']
+    For Names in masterNames():
+    Return
+    
